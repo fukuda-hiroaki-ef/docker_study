@@ -1,0 +1,23 @@
+{
+  ////////////////////////////////////////////////////////////////
+  // editor設定
+  ////////////////////////////////////////////////////////////////
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.fontSize": 14,
+  "editor.fontFamily": "ＭＳ ゴシック",
+  "editor.renderLineHighlight": "all",
+  "editor.rulers": [
+    40,
+    80,
+    120
+  ],
+  "editor.bracketPairColorization.enabled": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "files.encoding": "utf8",
+  "terminal.integrated.fontFamily": "MS Gothic",
+  "git.autofetch": true,
+  "workbench.tree.indent": 15,
+}
